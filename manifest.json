@@ -1,9 +1,9 @@
 {
-  "version": "pc-2026-07-20a",
-  "url": "https://github.com/Admiralpampers/StayInBed-releases/releases/download/pc-2026-07-20a/StayInBed-Server.exe",
-  "sha256": "a8404c0469032c8ac2d9da1a55aadbd74f36b6dc6f46dadc4f3234fe02be1d00",
-  "size": 113521683,
-  "notes": "",
+  "version": "pc-2026-07-20b",
+  "url": "https://github.com/Admiralpampers/StayInBed-releases/releases/download/pc-2026-07-20b/StayInBed-Server.exe",
+  "sha256": "d7cb6945242f5e6d09979d0e4a727175d45f51032b8fedb613453c79108680a4",
+  "size": 113520807,
+  "notes": "Fix auto-update label wording",
   "min_version": "",
-  "sig": "BZZNR120yDg+MLf7nkmMnyVIqn+Lc31qXX0mSAodm13i9IkYTJkgOvnTzMWuInm2ZbkWGfVIVgbc/iDozh/vCg=="
+  "sig": "nW+zFhZUaTM+S9ldGY38hN4MDyPvcPrpWO81Bi64z56T8NnYBy4mwKq2AL5u/+cWxdXinMNYDtVPPBZxSD7UCQ=="
 }
