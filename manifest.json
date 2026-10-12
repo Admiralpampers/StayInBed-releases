@@ -1,9 +1,9 @@
 {
-  "version": "pc-2026-10-04c",
-  "url": "https://github.com/Admiralpampers/StayInBed-releases/releases/download/pc-2026-10-04c/StayInBed-Server.exe",
-  "sha256": "f4b84cc99a0b2cace87549105b265351c629a12cac5e89906613ec748446c048",
-  "size": 122614612,
-  "notes": "Game mode for file transfers (switch in Settings, Files, Transfer); PC transfer panel; big files up to 50 GB with resume; drop files on the window to send them to the phone; notice for received files; settings in sections; reliability and security fixes",
+  "version": "pc-2026-10-12a",
+  "url": "https://github.com/Admiralpampers/StayInBed-releases/releases/download/pc-2026-10-12a/StayInBed-Server.exe",
+  "sha256": "e95f7d4e4ef67cd1216a5fea39a823171c4fe451a535b06239be582a2b612bbf",
+  "size": 122666427,
+  "notes": "Media buttons answer in time when the Windows media service hangs; safer updates (copied beside the exe, then swapped in); Windows tools started by full path; sensor and autologin fixes.",
   "min_version": "",
-  "sig": "Rjj+tuxaDMDe8YNNgfsWFbOBOurMf+DA2Srgq1+HldVQvnkfeFmcS/sYImF3ai5VbmMiHRya6A1QwpchCejMCw=="
+  "sig": "x4RWjebc1JJj2uiALYvVh6xzT2A0RPDCeHRIybZk3EyIyhzbHmyBEzVj8inIIkruzw8VwEah30JvvHn1Zf1ABQ=="
 }
